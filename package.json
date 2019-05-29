@@ -1,0 +1,17 @@
+{
+  "name": "fe-boat-calculators",
+  "version": "1.0.0",
+  "description": "FE boat speed calculator",
+  "main": "fe-boat-speed-calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pete Jansz",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0"
+  },
+  "engines": {
+    "node": "10.15.0"
+  }
+}
